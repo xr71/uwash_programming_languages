@@ -1,0 +1,2 @@
+(* FUNCTIONAL PATTERNS *)
+
